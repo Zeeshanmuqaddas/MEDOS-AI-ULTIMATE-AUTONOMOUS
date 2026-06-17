@@ -1,3 +1,8 @@
+
+Built MEDOS AI — a futuristic autonomous healthcare OS with real-time ICU monitoring, multi-agent intelligence, critical alerts, and an AI Clinical Copilot powered by Gemini 3.1 Pro.
+
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
